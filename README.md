@@ -145,7 +145,7 @@ Konsultasi awal **gratis**. Kami dengar kebutuhan Anda dulu, baru kasih rekomend
 - 📧 **Email:** [studiogenesis828@gmail.com](mailto:studiogenesis828@gmail.com)
 - 📸 **Instagram:** [@genesisdevv](https://instagram.com/genesisdevv)
 - 💼 **LinkedIn:** [-](-)
-- 🌐 **Website:** [genesisdev.vercel.app](https://genesisdev.vercel.app)
+- 🌐 **Website:** [genesisdev.vercel.app](https://genesis-dev-web-ysqe-beryl.vercel.app/)
 
 **WhatsApp message template:**
 > Halo genesisDev, saya ingin berkonsultasi mengenai solusi digital untuk bisnis saya.
