@@ -141,10 +141,10 @@ Lihat portfolio lengkap di **[website kami](#)**.
 
 Konsultasi awal **gratis**. Kami dengar kebutuhan Anda dulu, baru kasih rekomendasi.
 
-- 💬 **WhatsApp:** [+62 812-3456-7890](https://wa.me/6281234567890)
-- 📧 **Email:** [hello@genesisdev.id](mailto:hello@genesisdev.id)
-- 📸 **Instagram:** [@genesisdev](https://instagram.com/genesisdev)
-- 💼 **LinkedIn:** [genesisDev](https://linkedin.com/company/genesisdev)
+- 💬 **WhatsApp:** [WhatsApp](https://wa.me/6281234567890)
+- 📧 **Email:** [studiogenesis828@gmail.com](mailto:studiogenesis828@gmail.com)
+- 📸 **Instagram:** [@genesisdevv](https://instagram.com/genesisdevv)
+- 💼 **LinkedIn:** [-](-)
 - 🌐 **Website:** [genesisdev.vercel.app](https://genesisdev.vercel.app)
 
 **WhatsApp message template:**
