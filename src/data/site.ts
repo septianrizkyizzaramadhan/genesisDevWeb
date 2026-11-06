@@ -3,8 +3,8 @@ export const site = {
   tagline: "Build Better. Automate Smarter.",
   description:
     "genesisDev membantu bisnis kecil membangun website profesional dan mengotomatisasi proses kerja menggunakan teknologi web dan AI.",
-  url: "https://genesisdev.vercel.app",
-  whatsapp: "6285855360005", 
+  url: "https://genesisdev.my.id",
+  whatsapp: "628562752631", 
   whatsappMessage:
     "Halo genesisDev, saya ingin berkonsultasi mengenai solusi digital untuk bisnis saya.",
   email: "studiogenesis828@gmail.com", 
