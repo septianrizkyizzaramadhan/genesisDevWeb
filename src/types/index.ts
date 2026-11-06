@@ -4,6 +4,8 @@ export interface Service {
   description: string;
   items: string[];
   icon: string;
+  longDescription: string;
+  benefits: string[];
 }
 
 export interface Problem {
