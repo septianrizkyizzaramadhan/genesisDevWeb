@@ -21,8 +21,8 @@ export function Hero() {
       <Container>
         <div className="mx-auto max-w-3xl text-center">
           <h1 className="text-[40px] font-bold leading-[1.1] tracking-[-0.02em] text-white sm:text-5xl lg:text-6xl">
-            Selamat Datang di{" "}
-            <span className="block text-accent">genesisDev</span>
+            Jasa Web Development &{" "}
+            <span className="block text-accent">Backend API Setup</span>
           </h1>
 
           {/* Divider kecil */}
@@ -33,9 +33,8 @@ export function Hero() {
           </div>
 
           <p className="mx-auto mt-6 max-w-2xl text-[15px] leading-relaxed text-white/80 sm:text-base">
-            genesisDev membantu bisnis kecil membuat website profesional,
-            mengotomatisasi proses kerja, dan memanfaatkan AI agar bekerja
-            lebih efisien.
+            genesisDev membantu bisnis Anda membuat website profesional, serta membangun 
+            sistem Backend API yang cepat dan aman menggunakan Node.js dan TypeScript.
           </p>
 
           <div className="mt-10 flex flex-col items-center justify-center gap-3 sm:flex-row">

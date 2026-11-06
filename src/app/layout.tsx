@@ -16,6 +16,13 @@ export const metadata: Metadata = {
   },
   description: site.description,
   metadataBase: new URL(site.url),
+  
+  // TAMBAHKAN BARIS INI
+  verification: {
+    google: "MASUKKAN_KODE_DARI_GOOGLE_DISINI", 
+  },
+  // ----------------------
+
   openGraph: {
     title: `${site.name} — ${site.tagline}`,
     description: site.description,
